@@ -1,0 +1,503 @@
+.navbar-brand {
+    display: flex ;
+}
+
+.form-control {
+    position: relative;
+    left: 15%;
+}
+
+.logo { 
+    position: relative;
+    left: 5%;
+}
+
+.btn-primary {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header {
+    background-image: url(../images/m2PqXUc.jpg);
+   
+    width: 100%;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#exp{
+    color: hotpink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    position: relative;
+    top: 30%;
+    left: 15%;
+   
+}
+
+#stay  {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:75px ;
+    position: relative;
+    top: 31%;
+    left: 15%;
+}
+
+.nav2{
+    max-width: 1000px;
+    width: 100%;
+    height: 40px;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    top: 35%;
+    left: 15%;
+}
+
+.container-fluid {
+    display: flex;
+}
+
+.item1{
+    color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.item2{
+    position: relative;
+    left: 150px;
+    color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.item3{
+    position: relative;
+    left: 320px;
+    color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn1{
+    position: relative;
+    left: 420px;
+    border-radius: 15px;
+    height: 33px;
+    top: 3px;
+    color: white;
+}
+
+
+.section2 {
+    height: 700px;
+    background-color: #f7f7f7ee;
+}
+
+.txts{
+    align-items: center;
+    text-align: center;
+    position: relative;
+    top: 20%;
+}
+
+#one{
+    color: #e83e8c ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#booking{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+.card {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.card-img-top {
+    max-width: 50px;
+    width: 100%;
+    height: 50px;
+}
+
+.row1 {
+    position: relative;
+    top: 250px;
+    margin: 0 auto;
+}
+
+.card{
+    align-items: center;
+    text-align: center;
+}
+
+.card-title {
+    color: black;
+    font-weight: 700;
+
+    
+}
+
+.card-text{
+    color: gray;
+    font-weight: 500;
+
+}
+.section3{
+    height: 900px;
+    color: indianred;
+}
+
+.text-white{
+    height: 400px;
+}
+
+.txts1{
+    position: relative;
+    top: 20%;
+    left: 16%;
+}
+
+
+#stay1 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#guides{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+
+.row-cols-5{
+    position: relative;
+    top: 250px;
+}
+
+#paris ,#praga , #barcelona , #brazil , #newyork {
+    height: 400px;
+   
+}
+
+.card-title-city {
+    position: relative;
+    top: 90%;
+    right: 30% ;
+}
+
+.col1:hover {
+    transform: translateY(-5PX);
+    transition-duration: 0.5s;
+}
+
+.section4{
+    height: 850px;
+  background-color: #f7f7f7ee;
+}
+
+#kitchen {
+    max-width: 300px;
+    width: 100%;
+    height: 200px;
+}
+
+.card2 {
+    background-color: white;
+    box-shadow: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#rt {
+    color: gray;
+    font-size: 17px;
+}
+.rating {
+    display: flex;
+}
+
+.ratingSTAR{
+    position: relative;
+    left: 25%;
+}
+
+.price span {
+    color: rgb(82, 82, 197);
+    font-weight: 900;
+    font-size: 25px;
+    
+}
+.price {
+    font-size: 20px;
+    position: relative;
+    top: 8px;
+    color: grey;
+    left: 8px;
+}
+
+.card2{
+    height: 370px;
+    position: relative;
+    top: 200px;
+}
+
+.avatarIMAGE {
+    display: flex;
+    position: relative;
+    bottom: 90px;
+}
+
+#image-avatar {
+    max-width: 60px;
+    width: 100%;
+   ;
+}
+#name { 
+    color: white;
+    font-size: 15px;
+    position: relative;
+    top: 20px;
+}
+
+.avatars {
+    height: 202px;
+}
+.heart {
+    border: 1px black;
+    position: relative;
+    bottom: 192px;
+    left: 255px;
+    
+}
+
+.ratingSTAR1 , .ratingSTAR2{
+    position: relative;
+    left: 20%;
+}
+.ratingSTAR3{
+    position: relative;
+    left: 37%;
+}
+
+.card2:hover {
+    transform: translateY(-10px);
+    transition-duration: 1s;
+}
+
+.txts2 {
+    position: relative;
+    top: 17%;
+    left: 16%;
+}
+
+
+
+#expiring {
+    color: #e83e8c;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#lastMINUTE {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.section5 {
+    height: 500px;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/forest.jpg');
+
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#ready {
+    color: white;
+    text-align: center;
+    font-family: Playfair Display,serif!important;
+    font-weight: 700;
+    font-size: 70px;
+    position: relative;
+    top: 30%;
+
+}
+
+.btn2 {
+    -webkit-border-radius: 6;
+    -moz-border-radius: 6;
+    border-radius: 6px;
+    font-family: Arial;
+    color: #5e5e5e;
+    font-size: 14px;
+    background: #f2f4f5;
+    padding: 10px 20px 8px 15px;
+    text-decoration: none;
+    position: relative;
+    top: 35%;
+    left: 27%;
+  }
+  
+  .btn2:hover {
+    background: #c4c4c4;
+    text-decoration: none;
+  }
+
+  .section6 {
+    height: 700px;
+
+    
+}
+
+.txts3{
+    text-align: center;
+    position: relative;
+    top: 20%;
+}
+
+#TESTIMONIALS{
+    color: cornflowerblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#customers {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.cards3{
+    position: relative;
+    top: 200px;
+    align-items: center;
+}
+
+.card3{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    max-width: 400px;
+    height: 300px;
+}
+
+.card-body{
+    position: relative;
+    top: 10px;
+}
+
+.card-title3{
+    position: relative;
+    top: 30px;
+
+}
+
+.card-text3 {
+    position: relative;
+    top: 10px;
+}
+
+.section7 {
+    height: 1100px;
+    background-color: #f7f7f7ee;
+}
+
+.txts4 {
+    position: relative;
+    top: 17%;
+    left: 16%;
+}
+
+#stories {
+    color: #e83e8c;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#travelBLOG {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.cards4{
+    position: relative;
+    top: 250px;
+}
+
+#natyre {
+    max-width: 500px;
+    width: 100%;
+    height: 200px;
+}
+
+.card4 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    max-width: 350px;
+    width: 100%;
+    height: 500px; 
+   
+}
+.card4:hover {
+    transform: translateY(-10px);
+    transition-duration: 1s;
+}
+#travel2 , #time , .card-text4 {
+    color: gray;
+}
+
+.card-link {
+    position: relative;
+    top: 25px;
+}
+
+.card-text4 {
+    position: relative;
+    top: 20px;
+}
+
+#time{
+    position: relative;
+    top: 10px;
+}
+
+#imagesdiv {
+    position: relative;
+    top: 400px;
+}
+
+.section8 {
+    height: 500px;
+  background-color: #f7f7f7ee; ;
+}
+
+.footer {
+    position: relative;
+    top: 200px;
+    
+}
+
+#footer-tittle{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.footer-body {
+    color: gray;
+    position: relative;
+    top: 25px;
+}
+
+.section9 {
+    height: 70px;
+    background-color: rgb(59, 58, 58);
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#masterbank {
+    max-width: 60px;
+    width: 100%;
+    height: 30px;
+}
+
+#final {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 20%;
+}
+
